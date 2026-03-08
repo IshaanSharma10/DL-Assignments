@@ -1,7 +1,7 @@
 # UCS761 – Deep Learning Lab Assignments
 
-Name: Mukul Ghai  
-Roll Number: 1023003463   
+Name: Ishaan Sharma  
+Roll Number: 102303442
 Group: 3C33
 
 ---
